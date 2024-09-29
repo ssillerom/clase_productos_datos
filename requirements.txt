@@ -1,0 +1,14 @@
+langchain
+langchain-experimental
+pypdf
+streamlit
+openai
+sentence-transformers
+docarray
+pandas
+scikit-learn
+matplotlib
+watchdog
+ultralytics
+opencv-python
+plotly
